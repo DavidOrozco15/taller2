@@ -56,6 +56,5 @@ while isActive:
             input("\nPresiona Enter para continuar...")
             os.system("clear")
             
-   
         
         
